@@ -1,0 +1,19 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bio-detail {
+  font-weight: 800;
+}
+
+.mdl-card__profile{
+  width: 412px;
+  z-index: 10;
+}
+
+.mdl-card__title {
+  height: 300px;
+}
